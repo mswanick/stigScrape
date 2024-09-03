@@ -1,6 +1,7 @@
 # stigScrape
-This Python script is designed to scrape and process the latests versions of Security Technical Implementation Guides (STIGs) from the website "stigviewer.com". 
 
+## Description
+This Python script is designed to scrape and process the latests versions of Security Technical Implementation Guides (STIGs) from the website "stigviewer.com". 
 Here's a summary of what it does:
 1.	Fetch Webpage: Downloads the main STIG page and extracts links to individual STIG documents.
 2.	Filter Links: Excludes known bad links and identifies links to XML files.
